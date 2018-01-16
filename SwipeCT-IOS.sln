@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwipeCT-IOS", "SwipeCT-IOS\SwipeCT-IOS.csproj", "{597E0A6E-19FB-4311-8E94-5E457A093AB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{597E0A6E-19FB-4311-8E94-5E457A093AB3}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{597E0A6E-19FB-4311-8E94-5E457A093AB3}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{597E0A6E-19FB-4311-8E94-5E457A093AB3}.Release|iPhone.ActiveCfg = Release|iPhone
+		{597E0A6E-19FB-4311-8E94-5E457A093AB3}.Release|iPhone.Build.0 = Release|iPhone
+		{597E0A6E-19FB-4311-8E94-5E457A093AB3}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{597E0A6E-19FB-4311-8E94-5E457A093AB3}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{597E0A6E-19FB-4311-8E94-5E457A093AB3}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{597E0A6E-19FB-4311-8E94-5E457A093AB3}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

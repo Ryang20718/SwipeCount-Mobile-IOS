@@ -1,0 +1,9 @@
+/Users/ryanyang/Desktop/SwipeCT-IOS/SwipeCT-IOS/obj/iPhoneSimulator/Debug/SwipeCT-IOS.csproj.CoreCompileInputs.cache
+/Users/ryanyang/Desktop/SwipeCT-IOS/SwipeCT-IOS/bin/iPhoneSimulator/Debug/SwipeCT-IOS.exe
+/Users/ryanyang/Desktop/SwipeCT-IOS/SwipeCT-IOS/bin/iPhoneSimulator/Debug/SwipeCT-IOS.pdb
+/Users/ryanyang/Desktop/SwipeCT-IOS/SwipeCT-IOS/obj/iPhoneSimulator/Debug/SwipeCT-IOS.exe
+/Users/ryanyang/Desktop/SwipeCT-IOS/SwipeCT-IOS/obj/iPhoneSimulator/Debug/SwipeCT-IOS.pdb
+/Users/ryanyang/Desktop/SwipeCT-IOS/SwipeCT-IOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/ryanyang/Desktop/SwipeCT-IOS/SwipeCT-IOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-11.2/actool/_PartialAppManifest.items
+/Users/ryanyang/Desktop/SwipeCT-IOS/SwipeCT-IOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/ryanyang/Desktop/SwipeCT-IOS/SwipeCT-IOS/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-11.2/optimized/
