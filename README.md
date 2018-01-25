@@ -3,6 +3,6 @@ Mobile Version Of Swipe Count for students to use to track and manage swipes eff
 
 Frameworks and Software used: Xamarin Android/C#
 
-### IOS version of the app can be found here: https://github.com/Ryang20718/SwipeCount-Mobile-IOS 
+### Android version of the app can be found here: https://github.com/Ryang20718/Swipe-Count-Mobile-Android
 
 ### Web version of the app can be found here: http://ryanyang.me/SwipeCount/
